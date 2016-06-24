@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Apps</title>
+</head>
+<body>
+<h3>ENDEREÇOS:</h3>
+<ul>
+<li><a href="http://www.fluminense.com.br">www.fluminense.com.br</a></li>
+<li><a href="http://veja.abril.com.br/">veja.abril.com.br/</a></li>
+<li><a href="http://www.folha.uol.com.br/">www.folha.uol.com.br/</a></li>
+<li><a href="http://www.istoe.com.br/">www.istoe.com.br/</a></li>
+<li><a href="http://www.oglobo.globo.com/">www.oglobo.globo.com/</a></li>
+<li><a href="http://www.odia.ig.com.br/">www.odia.ig.com.br/</a></li>
+<li><a href="http://www.jb.com.br/capa/">www.jb.com.br/capa/</a></li>
+<li><a href="http://www.g1.globo.com/">www.g1.globo.com/</a></li>
+<li><a href="http://www.ofluminense.com.br/">www.ofluminense.com.br/</a></li>
+<li><a href="http://www.extra.globo.com/">www.extra.globo.com/</a></li>
+<li><a href="http://www.folhanit.com.br/">www.folhanit.com.br/</a></li>
+<li><a href="http://www.folhanit.com.br/">www.folhanit.com.br/</a></li>
+<li><a href="http://www.lance.com.br/">www.lance.com.br/</a></li>
+<li><a href="http://www.nytimes.com/">www.nytimes.com/</a></li>
+<li><a href="http://www.lemonde.fr/">www.lemonde.fr/</a></li>
+<li><a href="http://www.huffingtonpost.com/">www.huffingtonpost.com/</a></li>
+<li><a href="http://www.instagram.com/">www.instagram.com/</a></li>
+<li><a href="http://www.facebook.com/">www.facebook.com/</a></li>
+<li><a href="http://www.linkedin.com/">www.linkedin.com/</a></li>
+<li><a href="http://www.twitter.com/">www.twitter.com/</a></li>
+<li><a href="http://www.youtube.com/">www.youtube.com/</a></li>
+<li><a href="http://www.plus.google.com/">www.plus.google.com/</a></li>
+<li><a href="http://www.spotify.com/br/">www.spotify.com/br/</a></li>
+<li><a href="http://web.whatsapp.com/">web.whatsapp.com/</a></li>
+<li><a href="http://www.telegram.org/">www.telegram.org/</a></li>
+<li><a href="http://www.snapchat.com/">www.snapchat.com/</a></li>
+<li><a href="http://www.xvideos.com/">www.xvideos.com/</a></li>
+<li><a href="http://www.redtube.com/">www.redtube.com/</a></li>
+<li><a href="http://www.empflix.com/">www.empflix.com/</a></li>
+</ul>
+</body>
+</html>
